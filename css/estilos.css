@@ -3,3 +3,10 @@ body{
 	text-align: center;
 	font-family: "Arial";
 }
+#parrafo{
+	border-radius: 131px 32px 32px 32px;
+	-moz-border-radius: 131px 32px 32px 32px;
+	-webkit-border-radius: 131px 32px 32px 32px;
+	border: 0px solid #000000;
+	background: orange;
+}
